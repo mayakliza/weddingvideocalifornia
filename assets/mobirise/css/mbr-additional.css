@@ -1733,7 +1733,7 @@ body {
   color: #ffffff;
 }
 .cid-rxVXOVS6R3 {
-  padding-top: 75px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1759,6 +1759,29 @@ body {
 .cid-rxVXOVS6R3 .mbr-section-btn {
   color: #232323;
   text-align: left;
+}
+.cid-ryh79NHskM {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ryh79NHskM .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ryh79NHskM .section-text {
+  padding: 2rem 0;
+}
+.cid-ryh79NHskM .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ryh79NHskM .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rxTvVMZLQH {
   padding-top: 0px;
